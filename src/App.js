@@ -1,13 +1,20 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Plate from './assets/images/plate.png';
+
+const backgroundPlate = {
+    border: "1px solid #000",
+    backgroundImage: `url(${Plate})`,
+    width: "100%",
+    height: "auto"
+};
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <div style={ backgroundPlate }>abc</div>
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
