@@ -30,6 +30,30 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 @font-face {
+	font-family: alef;
+	src: url("./assets/fonts/alef.ttf");
+	font-weight: 400;
+  }
+  @font-face {
+	font-family: alef;
+	src: url("./assets/fonts/alef-bold.ttf");
+	font-weight: 700;
+  }
+  @font-face {
+	font-family: catamaran;
+	src: url("./assets/fonts/catamaran-medium.ttf");
+	font-weight: 500;
+  }
+  @font-face {
+	font-family: catamaran;
+	src: url("./assets/fonts/catamaran-bold.ttf");
+	font-weight: 700;
+  }
+  @font-face {
+	font-family: caveatbrush;
+	src: url("./assets/fonts/caveatbrush.ttf");
+  }
+@font-face {
 	font-family: rokkitt;
 	src: url("./assets/fonts/rokkitt.ttf");
 	font-weight: 400;

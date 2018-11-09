@@ -1,0 +1,78 @@
+.bg-color-255-239-183-p35{
+    background-color: rgba(255, 239, 183, 0.35)
+}
+.bg-color-222-239-247{
+    background-color: rgb(222, 239, 247);
+}
+.border-bottom-p75em-double-10-33-47{
+    border-bottom:  .75em double rgb(10, 33, 47);
+}
+.border-left-solid-1px-18-49-67{
+    border-left: solid 1px rgb(18,49,67);
+}
+.border-radius-4px{
+    border-radius: 4px;
+}
+.border-right-solid-1px-18-49-67{
+    border-right: solid 1px rgb(18,49,67);
+}
+.color-10-33-47{
+    color: rgb(10,33,47);
+}
+.display-block{
+    display: block;
+}
+.display-inline-block{
+    display: inline-block;
+}
+.font-catamaran{
+    font-family: "catamaran", sans-serif;
+}
+.font-caveatbrush{
+    font-family: "caveatbrush", cursive;
+}
+.font-size-p5em{
+    font-size: 0.5em;
+}
+.font-weight-500{
+    font-weight: 500;
+}
+.margin-top-3em{
+    margin-top: 4em;
+}
+.min-height-100pc{
+    min-height: 100%;
+}
+.padding-bottom-p5em{
+    padding-bottom: .5em;
+}
+.padding-bottom-p75em{
+    padding-bottom: .75em;
+}
+.padding-left-p5em{
+    padding-left: .5em;
+}
+.padding-left-p75em{
+    padding-left: .75em;
+}
+.padding-right-p5em{
+    padding-right: .5em;
+}
+.padding-right-p75em{
+    padding-right: .75em;
+}
+.padding-top-p5em{
+    padding-top: .5em;
+}
+.padding-top-p75em{
+    padding-top: .75em;
+}
+.text-center{
+    text-align: center;
+}
+.width-2pc{
+    width: 2%;
+}
+.width-100pc{
+    width: 100%;
+}

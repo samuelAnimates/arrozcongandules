@@ -1,0 +1,42 @@
+.bg-offwhite{
+    background-color: rgba(255, 255,255,0.35);
+}
+.border-radius-4px{
+    border-radius: 4px;
+}
+.border-solid-1px-18-49-67{
+    border: solid 1px rgb(18,49,67);
+}
+.height-100pc{
+    height: 100%;
+}
+.padding-bottom-p5em{
+    padding-bottom: .5em;
+}
+.padding-bottom-p75em{
+    padding-bottom: .75em;
+}
+.padding-left-p5em{
+    padding-left: .5em;
+}
+.padding-left-p75em{
+    padding-left: .75em;
+}
+.padding-right-p5em{
+    padding-right: .5em;
+}
+.padding-right-p75em{
+    padding-right: .75em;
+}
+.padding-top-p5em{
+    padding-top: .5em;
+}
+.padding-top-p75em{
+    padding-top: .75em;
+}
+.width-50pc{
+    width: 50%;
+}
+.width-100pc{
+    width: 100%;
+}
