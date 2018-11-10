@@ -12,7 +12,7 @@ class App extends Component {
           <Switch>
             <Route exact path="/"  component={HomePage} />
             <Route exact path="/FoodAccessOverview"  component={FoodAccessOverview} />
-            <Route render={() => <Redirect to="/" />} />
+            <Route component={HomePage} />
           </Switch>
         </Router>
       </div>

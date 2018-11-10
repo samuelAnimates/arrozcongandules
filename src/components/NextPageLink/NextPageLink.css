@@ -21,6 +21,9 @@
 	border: solid 2px rgb(255,179,223);
 	cursor: pointer;
 }
+.bottom-0{
+	bottom: 0.25em;
+}
 .color-inherit{
 	color: inherit;
 }
@@ -29,4 +32,10 @@
 }
 .padding-right-p1em{
 	padding-right: .1em;
+}
+.position-absolute{
+	position: absolute;
+}
+.right-p15em{
+	right: 0.15em;
 }

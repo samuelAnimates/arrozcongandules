@@ -5,6 +5,7 @@ import Bookpage from "../../components/Bookpage";
 import Footer from "../../components/Footer";
 import InlineA from "../../components/InlineA";
 import DesktopBookLayout from '../../components/DesktopBookLayout/DesktopBookLayout';
+import NextPageLink from '../../components/NextPageLink';
 
 class HomePage extends Component {
     render() {
@@ -25,6 +26,10 @@ class HomePage extends Component {
                     <Bookpage>
                         <h1>Table of Contents</h1>
                         <p>Body of Text</p>
+                        <NextPageLink
+                            colorSchemeSuffix = "default"
+                            urlPath="/FoodAccessOverview"
+                        />
                     </Bookpage>
                 </DesktopBookLayout>
                 <Footer/>

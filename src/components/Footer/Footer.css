@@ -10,14 +10,37 @@
 .color-10-33-47{
 	color: rgb(10,33,47);
 }
+.display-flex{
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+}
+.flex-direction-row{
+    flex-direction: row;
+}
 .font-catamaran{
 	font-family: "catamaran", sans-serif;
 }
-.height-2p5em{
-	height: 2.5em;
+.font-size-p8em{
+	font-size: 0.8em;
+}
+.height-2p75em{
+	height: 2.75em;
+}
+.justify-content-center{
+	justify-content: center;
+}
+.padding-top-p75em{
+	padding-top: 5px;
 }
 .position-fixed{
 	position: fixed;
+}
+.position-relative{
+	position: relative;
+}
+.top-p5em{
+	top: .5em;
 }
 .width-100pc{
 	width: 100%;
