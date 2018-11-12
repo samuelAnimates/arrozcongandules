@@ -1,24 +1,23 @@
 {
   "name": "arrozcongandules",
-  "version": "0.1.0",
+  "author": "Samuel R. Mendez",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.9"
+  },
   "description": "",
   "engines": {
     "node": "10.13.0",
     "npm": "6.4.1"
   },
+  "keywords": [],
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "heroku-postbuild": "cd client && npm install && npm run build"
   },
-  "keywords": [],
-  "author": "Samuel R. mendez",
-  "license": "MIT",
-  "dependencies": {
-    "create-react-app": "^2.1.1",
-    "dotenv": "^6.1.0",
-    "express": "^4.16.4",
-    "mongodb": "^3.1.9"
-  }
+  "version": "0.1.0"
 }
