@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/static/media/coverimage.4c128b8f.png"
   },
   {
-    "revision": "ee80149348e829e40df440058caae2ac",
-    "url": "/static/media/catamaran-medium.ee801493.ttf"
-  },
-  {
     "revision": "4ae9d1269b992e155b66eeca34a0462d",
     "url": "/static/media/catamaran-bold.4ae9d126.ttf"
+  },
+  {
+    "revision": "ee80149348e829e40df440058caae2ac",
+    "url": "/static/media/catamaran-medium.ee801493.ttf"
   },
   {
     "revision": "36f1aee9f8bbbdca2fde",
