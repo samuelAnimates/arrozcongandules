@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "2db59a80bdfa0cba397e551ad76f5a2b",
-    "url": "/static/media/rokkitt.2db59a80.ttf"
+    "revision": "76ba32b14d5491bd7fe758404741d35c",
+    "url": "/static/media/rokkitt-semibold.76ba32b1.ttf"
   },
   {
     "revision": "36f1aee9f8bbbdca2fde",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/js/main.36f1aee9.chunk.js"
   },
   {
-    "revision": "76ba32b14d5491bd7fe758404741d35c",
-    "url": "/static/media/rokkitt-semibold.76ba32b1.ttf"
+    "revision": "2db59a80bdfa0cba397e551ad76f5a2b",
+    "url": "/static/media/rokkitt.2db59a80.ttf"
   },
   {
     "revision": "baf37b00a3d3506b7af5eeacbd820252",
