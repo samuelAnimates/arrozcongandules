@@ -1,67 +1,60 @@
-.footer-border-color-scheme-default{
-	border-color: rgba(150,150,150,0.05);
-	background-color: rgba(251,251,251,0.4);
+.bg-color-222-239-247{
+	background-color: rgb(222, 239, 247);
 }
-.footer-border-color-scheme-highContrast{
-	border-color: rgba(251, 252, 254, 0.8);
-	background-color: rgb(7,7,0);
+.border-solid-1p5px-0-0-0-0{
+	border: solid 1.5px rgba(0, 0, 0, 0);
 }
-.footer-body-color-scheme-default{
-	border-color: rgba(150,150,150,0.2);
-	background-color: rgb(251, 252, 252);
+.border-top-p75em-double-10-33-47{
+	border-top:  .5em double rgb(10, 33, 47);
 }
-.footer-body-color-scheme-highContrast{
-	border-color: rgba(251, 252, 254, 0.8);
-	background-color: rgb(7,7,0);
+.bottom-0{
+	bottom: 0;
 }
-.box-shadow-3px-4px-2px-rgba-221-126-192-p3{
-	box-shadow: 3px 4px 2px rgba(221, 126, 192, 0.3);
+.color-10-33-47{
+	color: rgb(10,33,47);
 }
-.border-style-solid{
-	border-style: solid;
+.display-flex{
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
 }
-.border-width-2px{
-	border-width: 2px;
+.flex-direction-row{
+    flex-direction: row;
 }
-.clear-both{
-	clear: both;
+.font-catamaran{
+	font-family: "catamaran", sans-serif;
 }
-.color-inherit{
-	color: inherit;
+.font-size-p8em{
+	font-size: 0.8em;
 }
-.font-size-p85em{
-	font-size: 0.85em;
+.height-2p75em{
+	height: 2.75em;
 }
-.font-size-p9em{
-	font-size: 0.9em;
+.justify-content-center{
+	justify-content: center;
 }
-.margin-bottom-2em{
-	margin-bottom: 2em;
+.padding-left-p1em{
+	padding-left: 0.1em;
 }
-.margin-top-1em{
-	margin-top: 1em;
+.padding-right-p1em{
+	padding-right: 0.1em;
 }
-.padding-bottom-p25em{
-	padding-bottom: 0.25em;
+.padding-top-p75em{
+	padding-top: 5px;
 }
-.padding-bottom-1em{
-	padding-bottom: 1em;
+.position-fixed{
+	position: fixed;
 }
-.padding-left-1em{
-	padding-left: 1em;
+.position-relative{
+	position: relative;
 }
-.padding-right-1em{
-	padding-right: 1em;
+.text-decoration-underline{
+	text-decoration: underline;
 }
-.padding-top-p25em{
-	padding-top: 0.25em;
-}
-.padding-top-1em{
-	padding-top: 1em;
-}
-.text-center{
-	text-align: center;
+.top-p5em{
+	top: .5em;
 }
 .width-100pc{
 	width: 100%;
-}
+  }
+

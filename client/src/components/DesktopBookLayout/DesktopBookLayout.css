@@ -1,0 +1,30 @@
+.align-items-stretch{
+    align-items: stretch;
+}
+.background-paper{
+    background-image: url("../../assets/images/paper.png");
+    background-color: #cccccc;
+}
+.display-flex{
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+}
+.flex-direction-row{
+    flex-direction: row;
+}
+.height-100pc{
+    height: 100%;
+}
+.min-height-100vh-calc2p5em{
+    min-height: calc(100vh - 2.5em);
+}
+.padding-bottom-2p5em{
+    padding-bottom: 2.5em;
+}
+.overflow-y-scroll{
+    overflow-y: auto;
+}
+.width-100pc{
+    width: 100%;
+}

@@ -34,14 +34,11 @@
 .font-size-p5em{
     font-size: 0.5em;
 }
-.font-size-2p75em{
-    font-size: 2.75em;
-}
 .font-weight-500{
     font-weight: 500;
 }
-.padding-top-2em{
-    margin-top: 2em;
+.margin-top-3em{
+    margin-top: 4em;
 }
 .min-height-100pc{
     min-height: 100%;
@@ -75,10 +72,6 @@
 }
 .width-2pc{
     width: 2%;
-}
-.width-75pc{
-    width: 50%;
-    min-width: 13em;
 }
 .width-100pc{
     width: 100%;
