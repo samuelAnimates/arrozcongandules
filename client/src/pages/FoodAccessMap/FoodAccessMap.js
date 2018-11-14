@@ -7,6 +7,7 @@ import InlineA from "../../components/InlineA";
 import DesktopBookLayout from "../../components/DesktopBookLayout/DesktopBookLayout";
 import NextPageLink from "../../components/NextPageLink"
 import PrevPageLink from "../../components/PrevPageLink"
+import FoodAccessMapImage from "../../assets/images/foodaccessmap.png"
 import Lawrencedem from "../../assets/images/lawrencedem.png"
 
 class FoodAccessMap extends Component {
@@ -20,7 +21,7 @@ class FoodAccessMap extends Component {
                                 Food Access/Food Deserts
                             </h1>
                         </div>
-                        <p></p>
+                        <img className="padding-top-3em max-width-400px width-100pc" src={ FoodAccessMapImage } alt=""></img>
                         <PrevPageLink
                             colorSchemeSuffix = "default"
                             urlPath="/"
@@ -34,7 +35,7 @@ class FoodAccessMap extends Component {
                             <p className="padding-bottom-p5em padding-top-p5em text-left">
                                 Maps of food access might just reinforce preconceived notions. 
                                 Most people looking at these maps probably have an idea of what areas are under-served. 
-                                These maps tend to point out problems that won't really suprise a lot of people. 
+                                As such, these maps tend to point out problems that won't really suprise a lot of people. 
                                 But what do they do to point out potential solutions?
                             </p>
                             <p className="padding-bottom-p5em padding-top-p5em text-left">
@@ -44,7 +45,7 @@ class FoodAccessMap extends Component {
                                 It probably involves building more supermarkets until the food deserts on the map disappear.
                             </p>
                             <p className="padding-bottom-p5em padding-top-p5em text-left">
-                                Supermarkets can be valuable places to buy groceries. But we know there's a lot more to the story than that.
+                                Supermarkets can be valuable places to buy groceries. But we know there's a lot more to the story of food access in Lawrence.
                             </p>
                             <img className="max-width-400px width-100pc" src={ Lawrencedem } alt="Lawrence demographics: 80,162 People. 77.1% Hispanic/Latino. 11.2% With Bachelor’s Degree or Higher. $36,764 Median Household Income"></img>
                         </div>

@@ -30,7 +30,7 @@ class HomePage extends Component {
                     </Bookpage>
                     <Bookpage>
                         <h2>Table of Contents</h2>
-                        <p>Body of Text</p>
+                        <p>[Placeholder]</p>
                         <NextPageLink
                             colorSchemeSuffix = "default"
                             urlPath="/FoodAccessMap"
