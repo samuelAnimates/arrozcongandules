@@ -28,23 +28,20 @@
 .font-catamaran{
     font-family: "catamaran", sans-serif;
 }
-.font-sueEllenFrancisco{
-    font-family: "sueEllenFrancisco", cursive;
+.font-caveatbrush{
+    font-family: "caveatbrush", cursive;
 }
 .font-size-p5em{
     font-size: 0.5em;
 }
-.font-size-2p75em{
-    font-size: 2.75em;
-}
 .font-weight-500{
     font-weight: 500;
 }
-.padding-top-2em{
-    margin-top: 2em;
+.margin-top-3em{
+    margin-top: 4em;
 }
-.max-width-300px{
-    max-width: 300px;
+.max-width-400px{
+    max-width: 700px;
 }
 .min-height-100pc{
     min-height: 100%;
@@ -76,12 +73,11 @@
 .text-center{
     text-align: center;
 }
+.text-left{
+    text-align: left;
+}
 .width-2pc{
     width: 2%;
-}
-.width-75pc{
-    width: 50%;
-    min-width: 13em;
 }
 .width-100pc{
     width: 100%;

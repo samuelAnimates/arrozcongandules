@@ -1,0 +1,450 @@
+[
+	{
+		"Name": "Two Brothers Market",
+		"Address": "100 Franklin St",
+		"longitude": "-71.168692",
+		"latitude": "42.707823",
+		"notes": ""
+	},
+	{
+		"Name": "Gonzalez Market",
+		"Address": "101 Union St",
+		"longitude": "-71.153388",
+		"latitude": "42.711671",
+		"notes": ""
+	},
+	{
+		"Name": "Fernandez Market",
+		"Address": "102 Essex St",
+		"longitude": "-71.156299",
+		"latitude": "42.707687",
+		"notes": ""
+	},
+	{
+		"Name": "La Dulce Abuelita",
+		"Address": "111 S Broadway",
+		"longitude": "-71.163459",
+		"latitude": "42.697003",
+		"notes": ""
+	},
+	{
+		"Name": "Dominican Market",
+		"Address": "119 Jackson St",
+		"longitude": "-71.157682",
+		"latitude": "42.712833",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Mora Grocery",
+		"Address": "130 Franklin St",
+		"longitude": "-71.170125",
+		"latitude": "42.709611",
+		"notes": ""
+	},
+	{
+		"Name": "South Broadway Market",
+		"Address": "135 S Broadway",
+		"longitude": "-71.16311",
+		"latitude": "42.696105",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Corporation Market",
+		"Address": "136 Newbury St",
+		"longitude": "-71.155815",
+		"latitude": "42.712712",
+		"notes": ""
+	},
+	{
+		"Name": "Nizao Food Market",
+		"Address": "140 Water St",
+		"longitude": "-71.17147",
+		"latitude": "42.699611",
+		"notes": ""
+	},
+	{
+		"Name": "Sons Somnang Market",
+		"Address": "141 S Union St",
+		"longitude": "-71.153515",
+		"latitude": "42.698193",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Gas N Go",
+		"Address": "150 Winthrop Ave",
+		"longitude": "-71.148801",
+		"latitude": "42.689712",
+		"notes": ""
+	},
+	{
+		"Name": "Strella Market",
+		"Address": "155 Arlington St",
+		"longitude": "-71.174967",
+		"latitude": "42.71792",
+		"notes": ""
+	},
+	{
+		"Name": "Kiara Market",
+		"Address": "164 Park St",
+		"longitude": "-71.167282",
+		"latitude": "42.716523",
+		"notes": ""
+	},
+	{
+		"Name": "Bonao Market",
+		"Address": "169 Newbury St",
+		"longitude": "-71.155277",
+		"latitude": "42.713251",
+		"notes": ""
+	},
+	{
+		"Name": "Yaport Market",
+		"Address": "176 S Union St",
+		"longitude": "-71.153206",
+		"latitude": "42.697526",
+		"notes": ""
+	},
+	{
+		"Name": "Mellos Supermarket",
+		"Address": "187 Lawrence St",
+		"longitude": "-71.165257",
+		"latitude": "42.716535",
+		"notes": ""
+	},
+	{
+		"Name": "Yashira Market",
+		"Address": "193 S Broadway",
+		"longitude": "-71.16235",
+		"latitude": "42.69437",
+		"notes": ""
+	},
+	{
+		"Name": "La Vecina Meat Market",
+		"Address": "202 Broadway",
+		"longitude": "-71.170356",
+		"latitude": "42.707461",
+		"notes": ""
+	},
+	{
+		"Name": "Jacqueline Meat Market & Supermarket",
+		"Address": "233 Salem St",
+		"longitude": "-71.163273",
+		"latitude": "42.697476",
+		"notes": ""
+	},
+	{
+		"Name": "Esperalta Grocery",
+		"Address": "205 Broadway",
+		"longitude": "-71.169895",
+		"latitude": "42.707886",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Mejia Market",
+		"Address": "206 Lawrence",
+		"longitude": "-71.165605",
+		"latitude": "42.716493",
+		"notes": ""
+	},
+	{
+		"Name": "Chris's Convenience Store",
+		"Address": "232 Hampshire St",
+		"longitude": "-71.168202",
+		"latitude": "42.710641",
+		"notes": ""
+	},
+	{
+		"Name": "Minaya Margarita",
+		"Address": "241 S Union St",
+		"longitude": "-71.153644",
+		"latitude": "42.696179",
+		"notes": ""
+	},
+	{
+		"Name": "Arelis Market",
+		"Address": "251 S Union St",
+		"longitude": "-71.15338",
+		"latitude": "42.696064",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "La Nueva Equina Meat Market",
+		"Address": "260 Lowell St",
+		"longitude": "-71.17014",
+		"latitude": "42.706337",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Pilon Market",
+		"Address": "262 Hampshire St",
+		"longitude": "-71.169211",
+		"latitude": "42.711334",
+		"notes": ""
+	},
+	{
+		"Name": "Borinquen Grocery",
+		"Address": "269 Park St",
+		"longitude": "-71.172709",
+		"latitude": "42.716355",
+		"notes": ""
+	},
+	{
+		"Name": "Costanza Meat Market",
+		"Address": "271 Lawrence St",
+		"longitude": "-71.167901",
+		"latitude": "42.719176",
+		"notes": ""
+	},
+	{
+		"Name": "South Union Street Market",
+		"Address": "280 S Union St",
+		"longitude": "-71.153057",
+		"latitude": "42.695414",
+		"notes": ""
+	},
+	{
+		"Name": "Sirois Food Products Inc",
+		"Address": "291 Lowell St",
+		"longitude": "-71.171826",
+		"latitude": "42.706331",
+		"notes": ""
+	},
+	{
+		"Name": "Strella Market",
+		"Address": "294 Prospect St",
+		"longitude": "-71.154603",
+		"latitude": "42.717643",
+		"notes": ""
+	},
+	{
+		"Name": "La Nueva Generacion",
+		"Address": "296 Broadway",
+		"longitude": "-71.172769",
+		"latitude": "42.709863",
+		"notes": ""
+	},
+	{
+		"Name": "Macoris Variety",
+		"Address": "296 Lawrence St",
+		"longitude": "-71.169001",
+		"latitude": "42.719519",
+		"notes": ""
+	},
+	{
+		"Name": "Guzman Yajaira",
+		"Address": "3 Trenton St",
+		"longitude": "-71.164267",
+		"latitude": "42.715408",
+		"notes": ""
+	},
+	{
+		"Name": "El Pilon Market II",
+		"Address": "304 Jackson St",
+		"longitude": "-71.158357",
+		"latitude": "42.71966",
+		"notes": ""
+	},
+	{
+		"Name": "La Conquista Groceries",
+		"Address": "307 Broadway",
+		"longitude": "-71.172337",
+		"latitude": "42.710233",
+		"notes": ""
+	},
+	{
+		"Name": "Union Supermarket #4",
+		"Address": "309 Park St",
+		"longitude": "-71.173894",
+		"latitude": "42.716326",
+		"notes": ""
+	},
+	{
+		"Name": "Riverside Specialty Foods Inc",
+		"Address": "32 International Way",
+		"longitude": "-71.183986",
+		"latitude": "42.688097",
+		"notes": ""
+	},
+	{
+		"Name": "Kailey Market",
+		"Address": "324 Prospect St",
+		"longitude": "-71.155039",
+		"latitude": "42.718436",
+		"notes": ""
+	},
+	{
+		"Name": "Los Hermanos' Market",
+		"Address": "334 Lawrence St",
+		"longitude": "-71.170145",
+		"latitude": "42.720576",
+		"notes": ""
+	},
+	{
+		"Name": "Jacqueline's Grocery Store",
+		"Address": "334 Lowell St",
+		"longitude": "-71.173235",
+		"latitude": "42.705096",
+		"notes": ""
+	},
+	{
+		"Name": "Stop 1 Supermarket",
+		"Address": "352 Hampshire St",
+		"longitude": "-71.171264",
+		"latitude": "42.714147",
+		"notes": ""
+	},
+	{
+		"Name": "Fernando Super Market",
+		"Address": "354 Broadway",
+		"longitude": "-71.173774",
+		"latitude": "42.711514",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Genesis Market",
+		"Address": "360 Lowell St",
+		"longitude": "-71.174204",
+		"latitude": "42.704722",
+		"notes": ""
+	},
+	{
+		"Name": "Miguel Grocery",
+		"Address": "373 Broadway ",
+		"longitude": "-71.173897",
+		"latitude": "42.712077",
+		"notes": ""
+	},
+	{
+		"Name": "Elizabeth Grocery",
+		"Address": "385 Lowell St",
+		"longitude": "-71.175368",
+		"latitude": "42.704559",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Fantastic Four Market & Deli",
+		"Address": "388 Hampshire St",
+		"longitude": "-71.171425",
+		"latitude": "42.715282",
+		"notes": ""
+	},
+	{
+		"Name": "Colony Foods Inc.",
+		"Address": "439 Haverhill St",
+		"longitude": "-71.174978",
+		"latitude": "42.708182",
+		"notes": ""
+	},
+	{
+		"Name": "Quisiqueya Market",
+		"Address": "460 Hampshire St",
+		"longitude": "-71.171582",
+		"latitude": "42.717832",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "El Mercadito",
+		"Address": "49 Walnut St",
+		"longitude": "-71.170186",
+		"latitude": "42.715214",
+		"notes": ""
+	},
+	{
+		"Name": "Alba Market",
+		"Address": "51 Berkeley St",
+		"longitude": "-71.157854",
+		"latitude": "42.718444",
+		"notes": ""
+	},
+	{
+		"Name": "Bob's Grocery Store",
+		"Address": "513 Andover St",
+		"longitude": "-71.167747",
+		"latitude": "42.691545",
+		"notes": ""
+	},
+	{
+		"Name": "Fama Market & Services Inc.",
+		"Address": "517 Broadway",
+		"longitude": "-71.176356",
+		"latitude": "42.715241",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Ariass Inc",
+		"Address": "54 Parker St",
+		"longitude": "-71.159114",
+		"latitude": "42.69938",
+		"notes": ""
+	},
+	{
+		"Name": "Popular Variety",
+		"Address": "58 Parket St",
+		"longitude": "-71.159119",
+		"latitude": "42.69922",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Li'l Peach Grocerette",
+		"Address": "603 Andover St",
+		"longitude": "-71.17368",
+		"latitude": "42.690322",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Tommy's Grocery",
+		"Address": "64 Milton St",
+		"longitude": "-71.179987",
+		"latitude": "42.704213",
+		"notes": ""
+	},
+	{
+		"Name": "La Dioma Grocery",
+		"Address": "656 Essex St",
+		"longitude": "-71.170941",
+		"latitude": "42.703677",
+		"notes": ""
+	},
+	{
+		"Name": "Vanessa's Market",
+		"Address": "68 Willow St",
+		"longitude": "-71.172898",
+		"latitude": "42.716117",
+		"notes": "questionable, might've been renamed"
+	},
+	{
+		"Name": "Giorgios Convenience Inc",
+		"Address": "680 Essex St",
+		"longitude": "-71.171473",
+		"latitude": "42.703362",
+		"notes": ""
+	},
+	{
+		"Name": "Valeria Market",
+		"Address": "71 E Haverhill St",
+		"longitude": "-71.155914",
+		"latitude": "42.71559",
+		"notes": ""
+	},
+	{
+		"Name": "America's Food Basket",
+		"Address": "73 Winthrop Ave",
+		"longitude": "-71.150295",
+		"latitude": "42.689576",
+		"notes": ""
+	},
+	{
+		"Name": "Altamira Market",
+		"Address": "88 Broadway",
+		"longitude": "71.172473",
+		"latitude": "42.709401",
+		"notes": ""
+	},
+	{
+		"Name": "Emmunel Market",
+		"Address": "99 Park St",
+		"longitude": "71.163056",
+		"latitude": "42.716678",
+		"notes": ""
+	}
+]

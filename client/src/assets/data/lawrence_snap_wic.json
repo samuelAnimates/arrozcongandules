@@ -1,0 +1,186 @@
+[
+	{
+		"store_name": "7-Eleven #37343H",
+		"longitude": "-71.153351",
+		"latitude": "42.69289",
+		"address": "390 S Union Street",
+		"zip": "1843",
+		"telephone": "(978) 689-2365"
+	},
+	{
+		"store_name": "Amable Super Market",
+		"longitude": "-71.1577",
+		"latitude": "42.718159",
+		"address": "304 Jackson Street",
+		"zip": "1841",
+		"telephone": "(978) 688-1990"
+	},
+	{
+		"store_name": "Caballo Food Corp.",
+		"longitude": "-71.151474",
+		"latitude": "42.691254",
+		"address": "69 Winthrop Ave",
+		"zip": "1843",
+		"telephone": "(978) 208-0403"
+	},
+	{
+		"store_name": "Cast-Mart, LLC",
+		"longitude": "-71.174004",
+		"latitude": "42.690216",
+		"address": "606 Andover Street",
+		"zip": "1843",
+		"telephone": "(978) 655-5454"
+	},
+	{
+		"store_name": "CVS Pharmacy #1786",
+		"longitude": "-71.171478",
+		"latitude": "42.708828",
+		"address": "266 Broadway",
+		"zip": "1841",
+		"telephone": "(978) 688-5924"
+	},
+	{
+		"store_name": "CVS Pharmacy #952",
+		"longitude": "-71.161957",
+		"latitude": "42.693943",
+		"address": "205 South Broadway",
+		"zip": "1843",
+		"telephone": "(978) 681-9943"
+	},
+	{
+		"store_name": "Esmy Market Inc.",
+		"longitude": "-71.158569",
+		"latitude": "42.697514",
+		"address": "110 Parker Street",
+		"zip": "1843",
+		"telephone": "(978) 984-5367"
+	},
+	{
+		"store_name": "Essex Market",
+		"longitude": "-71.157722",
+		"latitude": "42.707756",
+		"address": "175 Essex Street",
+		"zip": "1840",
+		"telephone": "(978) 682-4586"
+	},
+	{
+		"store_name": "Fredy Mini Market, Inc.",
+		"longitude": "-71.170029",
+		"latitude": "42.70961",
+		"address": "130 Franklin Street",
+		"zip": "1841",
+		"telephone": "(978) 208-8349"
+	},
+	{
+		"store_name": "Gigante Meat Market #2",
+		"longitude": "-71.169601",
+		"latitude": "42.720123",
+		"address": "333 Lawrence Street",
+		"zip": "1841",
+		"telephone": "(978) 989-9040"
+	},
+	{
+		"store_name": "Gomez Meat Market LLC",
+		"longitude": "-71.160324",
+		"latitude": "42.691639",
+		"address": "272 South Broadway",
+		"zip": "1843",
+		"telephone": "(978) 688-6076"
+	},
+	{
+		"store_name": "Jimenez Supermarket",
+		"longitude": "-71.155579",
+		"latitude": "42.71199",
+		"address": "117 Newbury Street",
+		"zip": "1841",
+		"telephone": "(978) 557-2167"
+	},
+	{
+		"store_name": "La Fruteria Supermarket",
+		"longitude": "-71.179405",
+		"latitude": "42.712307",
+		"address": "75 Manchester Street",
+		"zip": "1841",
+		"telephone": "(978) 681-9977"
+	},
+	{
+		"store_name": "Market Basket #5",
+		"longitude": "-71.171516",
+		"latitude": "42.703217",
+		"address": "700 Essex Street",
+		"zip": "1840",
+		"telephone": "(978) 686-1001"
+	},
+	{
+		"store_name": "Papi Grocery Store",
+		"longitude": "-71.153442",
+		"latitude": "42.696461",
+		"address": "205 South Union Street",
+		"zip": "1843",
+		"telephone": "(978) 691-5321"
+	},
+	{
+		"store_name": "Raquel Supermarket",
+		"longitude": "-71.168915",
+		"latitude": "42.719486",
+		"address": "296 Lawrence Street",
+		"zip": "1841",
+		"telephone": "(978) 689-0256"
+	},
+	{
+		"store_name": "Rojas Food Market LLC",
+		"longitude": "-71.172554",
+		"latitude": "42.716045",
+		"address": "269 Park Street",
+		"zip": "1841",
+		"telephone": "(978) 258-3922"
+	},
+	{
+		"store_name": "Suazo Market",
+		"longitude": "-71.160309",
+		"latitude": "42.687965",
+		"address": "50 Inman Street",
+		"zip": "1843",
+		"telephone": "(978) 655-3734"
+	},
+	{
+		"store_name": "Tenares Grocery Inc.",
+		"longitude": "-71.158478",
+		"latitude": "42.718575",
+		"address": "64 Berkeley Street",
+		"zip": "1841",
+		"telephone": "(978) 687-0428"
+	},
+	{
+		"store_name": "Union Supermarket II",
+		"longitude": "-71.176079",
+		"latitude": "42.706463",
+		"address": "473 Haverhill Street",
+		"zip": "1843",
+		"telephone": "(978) 258-0695"
+	},
+	{
+		"store_name": "Union Supermarket Inc.",
+		"longitude": "-71.153427",
+		"latitude": "42.69598",
+		"address": "239-241 Union Street",
+		"zip": "1843",
+		"telephone": "(978) 738-0449"
+	},
+	{
+		"store_name": "V&V Market Inc.",
+		"longitude": "-71.153427",
+		"latitude": "42.695377",
+		"address": "273 South Union Street",
+		"zip": "1843",
+		"telephone": "(978) 258-0267"
+	},
+	{
+		"store_name": "Walgreens #3337",
+		"longitude": "-71.169273",
+		"latitude": "42.706287",
+		"address": "138 Broadway",
+		"zip": "1840",
+		"telephone": "(978) 725-3221"
+	}
+]

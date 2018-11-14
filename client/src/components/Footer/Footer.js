@@ -15,7 +15,15 @@ const Footer = props => (
                             colorSchemeSuffix="default"
                             isInternalLink={ true }
                             text="Food Access"
-                            urlPath="/FoodAccessOverview"
+                            urlPath="/FoodAccessMap"
+                        />
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Food Access Opportunities"
+                            urlPath="/foodAccessOpportunities"
                         />
                     </li>
                     <li role="menuitem">
@@ -44,7 +52,7 @@ const Footer = props => (
                     </li>
                 </ul>
             }
-            { props.currentPage === "FoodAccessOverview" &&
+            { props.currentPage === "FoodAccessMap" &&
                 <ul className="display-flex flex-direction-row justify-content-center">
                     <li role="menuitem">
                         <InlineA
@@ -56,6 +64,61 @@ const Footer = props => (
                     </li>
                     <li aria-current="page" role="menuitem">
                         <span className="border-solid-1p5px-0-0-0-0 display-inline-block padding-left-p1em padding-right-p1em text-decoration-underline">Food Access</span>
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Food Access Opportunities"
+                            urlPath="/foodAccessOpportunities"
+                        />
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Healthy Bodegas"
+                            urlPath="/HealthyBodegas"
+                        />
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Recipes"
+                            urlPath="/Recipes"
+                        />
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Resources"
+                            urlPath="/Resources"
+                        />
+                    </li>
+                </ul>
+            }
+            { props.currentPage === "FoodAccessMap2" &&
+                <ul className="display-flex flex-direction-row justify-content-center">
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Home"
+                            urlPath="/"
+                        />
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Food Access"
+                            urlPath="/FoodAccessMap"
+                        />
+                    </li>
+                    <li aria-current="page" role="menuitem">
+                        <span className="border-solid-1p5px-0-0-0-0 display-inline-block padding-left-p1em padding-right-p1em text-decoration-underline">Food Access Opportunities</span>
                     </li>
                     <li role="menuitem">
                         <InlineA
@@ -98,7 +161,15 @@ const Footer = props => (
                             colorSchemeSuffix="default"
                             isInternalLink={ true }
                             text="Food Access"
-                            urlPath="/FoodAccessOverview"
+                            urlPath="/FoodAccessMap"
+                        />
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Food Access Opportunities"
+                            urlPath="/foodAccessOpportunities"
                         />
                     </li>
                     <li aria-current="page" role="menuitem">
@@ -137,7 +208,15 @@ const Footer = props => (
                             colorSchemeSuffix="default"
                             isInternalLink={ true }
                             text="Food Access"
-                            urlPath="/FoodAccessOverview"
+                            urlPath="/FoodAccessMap"
+                        />
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Food Access Opportunities"
+                            urlPath="/foodAccessOpportunities"
                         />
                     </li>
                     <li role="menuitem">
@@ -176,7 +255,15 @@ const Footer = props => (
                             colorSchemeSuffix="default"
                             isInternalLink={ true }
                             text="Food Access"
-                            urlPath="/FoodAccessOverview"
+                            urlPath="/FoodAccessMap"
+                        />
+                    </li>
+                    <li role="menuitem">
+                        <InlineA
+                            colorSchemeSuffix="default"
+                            isInternalLink={ true }
+                            text="Food Access Opportunities"
+                            urlPath="/foodAccessOpportunities"
                         />
                     </li>
                     <li role="menuitem">

@@ -27,6 +27,9 @@
 .color-inherit{
 	color: inherit;
 }
+.font-catamaran{
+    font-family: "catamaran", sans-serif;
+}
 .padding-left-p1em{
 	padding-left: .1em;
 }

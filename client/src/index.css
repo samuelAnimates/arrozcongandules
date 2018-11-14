@@ -34,25 +34,25 @@ footer, header, hgroup, menu, nav, section {
 	src: url("./assets/fonts/alef.ttf");
 	font-weight: 400;
   }
-  @font-face {
+@font-face {
 	font-family: alef;
 	src: url("./assets/fonts/alef-bold.ttf");
 	font-weight: 700;
-  }
-  @font-face {
+}
+@font-face {
 	font-family: catamaran;
 	src: url("./assets/fonts/catamaran-medium.ttf");
 	font-weight: 500;
-  }
-  @font-face {
+}
+@font-face {
 	font-family: catamaran;
 	src: url("./assets/fonts/catamaran-bold.ttf");
 	font-weight: 700;
-  }
-  @font-face {
+}
+@font-face {
 	font-family: caveatbrush;
 	src: url("./assets/fonts/caveatbrush.ttf");
-  }
+}
 @font-face {
 	font-family: rokkitt;
 	src: url("./assets/fonts/rokkitt.ttf");
@@ -63,10 +63,14 @@ footer, header, hgroup, menu, nav, section {
 	src: url("./assets/fonts/rokkitt-semibold.ttf");
 	font-weight: 600;
 }
+@font-face {
+	font-family: sueEllenFrancisco;
+	src: url("./assets/fonts/sueEllenFrancisco.ttf");
+}
 body {
-	font-family: "rokkitt", serif;
+	font-family: "rokkitt", sans-serif;
 	font-size: 14pt;
-	line-height: 1.15;
+	line-height: 1.15em;
 }
 ol, ul {
 	list-style: none;

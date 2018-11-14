@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
-import './HealthyBodegas.css';
+import './FoodAccessMap2.css';
 import { Link } from "react-router-dom";
 import Bookpage from "../../components/Bookpage";
 import Footer from "../../components/Footer";
 import InlineA from "../../components/InlineA";
-import DesktopBookLayout from '../../components/DesktopBookLayout/DesktopBookLayout';
+import DesktopBookLayout from "../../components/DesktopBookLayout/DesktopBookLayout";
 import NextPageLink from "../../components/NextPageLink"
 import PrevPageLink from "../../components/PrevPageLink"
 
-class HealthyBodegas extends Component {
+class FoodAccessMap2 extends Component {
     render() {
         return (
             <div>
@@ -16,13 +16,13 @@ class HealthyBodegas extends Component {
                     <Bookpage>
                         <div className="text-center">
                             <h1>
-                                Healthy Bodegas
+                                Food Access Opportunities
                             </h1>
                         </div>
                         <p>Body of Text</p>
                         <PrevPageLink
                             colorSchemeSuffix = "default"
-                            urlPath="/foodAccessOpportunities"
+                            urlPath="/foodAccessMap"
                         />
                     </Bookpage>
                     <Bookpage>
@@ -45,19 +45,19 @@ class HealthyBodegas extends Component {
                             <p className="padding-bottom-p5em padding-top-p5em text-left">
                                 Supermarkets can be valuable places to buy groceries. But we know there's a lot more to the story than that.
                             </p>
-                        </div>
+                        </div>>
                         <NextPageLink
                             colorSchemeSuffix = "default"
-                            urlPath="/Recipes"
+                            urlPath="/healthyBodegas"
                         />
                     </Bookpage>
                 </DesktopBookLayout>
                 <Footer
-                    currentPage="HealthyBodegas"
+                    currentPage="FoodAccessMap2"
                 />
             </div>
         );
     };
 }
   
-export default HealthyBodegas;
+export default FoodAccessMap2;

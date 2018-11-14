@@ -1,0 +1,34 @@
+[
+	{
+		"store_name": "Gigante Meat Market",
+		"longitude": "-71.176013",
+		"latitude": "42.734556",
+		"address": "139 Park Street",
+		"zip": "1841",
+		"telephone": "(978) 682-7777"
+	},
+	{
+		"store_name": "Gomez Convenience Inc.",
+		"longitude": "-71.174098",
+		"latitude": "42.697751",
+		"address": "252 Water Street",
+		"zip": "1841",
+		"telephone": "(978) 975-0442"
+	},
+	{
+		"store_name": "Perrotta's Super Drug",
+		"longitude": "-71.154475",
+		"latitude": "42.717183",
+		"address": "292 Prospect Street",
+		"zip": "1841",
+		"telephone": "(978) 682-2557"
+	},
+	{
+		"store_name": "RRS El Pilon Inc.",
+		"longitude": "-71.169125",
+		"latitude": "42.711405",
+		"address": "262 Hampshire Street",
+		"zip": "1841",
+		"telephone": "(978) 682-0508"
+	}
+]

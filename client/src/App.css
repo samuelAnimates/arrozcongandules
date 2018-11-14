@@ -3,6 +3,7 @@ h1{
   font-family:"alef", sans-serif;
   font-size: 2.5em;
   font-weight: 700;
+  line-height: 1em;
 }
 h2{
   color: rgb(73, 59, 12);
@@ -10,4 +11,5 @@ h2{
   font-size: 1.5em;
   font-weight: 700;
   text-decoration: underline;
+  line-height: 1em;
 }

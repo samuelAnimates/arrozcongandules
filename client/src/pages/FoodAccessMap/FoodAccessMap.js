@@ -1,32 +1,33 @@
 import React, { Component } from 'react';
-import './HealthyBodegas.css';
+import './FoodAccessMap.css';
 import { Link } from "react-router-dom";
 import Bookpage from "../../components/Bookpage";
 import Footer from "../../components/Footer";
 import InlineA from "../../components/InlineA";
-import DesktopBookLayout from '../../components/DesktopBookLayout/DesktopBookLayout';
+import DesktopBookLayout from "../../components/DesktopBookLayout/DesktopBookLayout";
 import NextPageLink from "../../components/NextPageLink"
 import PrevPageLink from "../../components/PrevPageLink"
+import Lawrencedem from "../../assets/images/lawrencedem.png"
 
-class HealthyBodegas extends Component {
+class FoodAccessMap extends Component {
     render() {
         return (
             <div>
                 <DesktopBookLayout>
                     <Bookpage>
                         <div className="text-center">
-                            <h1>
-                                Healthy Bodegas
+                            <h1 className="padding-top-p5em text-center">
+                                Food Access/Food Deserts
                             </h1>
                         </div>
-                        <p>Body of Text</p>
+                        <p></p>
                         <PrevPageLink
                             colorSchemeSuffix = "default"
-                            urlPath="/foodAccessOpportunities"
+                            urlPath="/"
                         />
                     </Bookpage>
                     <Bookpage>
-                    <div>
+                        <div className="width-100pc">
                             <h2 className="padding-top-p5em text-center">
                                 A Limited View
                             </h2>
@@ -45,19 +46,20 @@ class HealthyBodegas extends Component {
                             <p className="padding-bottom-p5em padding-top-p5em text-left">
                                 Supermarkets can be valuable places to buy groceries. But we know there's a lot more to the story than that.
                             </p>
+                            <img className="max-width-400px width-100pc" src={ Lawrencedem } alt="Lawrence demographics: 80,162 People. 77.1% Hispanic/Latino. 11.2% With Bachelor’s Degree or Higher. $36,764 Median Household Income"></img>
                         </div>
                         <NextPageLink
                             colorSchemeSuffix = "default"
-                            urlPath="/Recipes"
+                            urlPath="/foodAccessOpportunities"
                         />
                     </Bookpage>
                 </DesktopBookLayout>
                 <Footer
-                    currentPage="HealthyBodegas"
+                    currentPage="FoodAccessMap"
                 />
             </div>
         );
     };
 }
   
-export default HealthyBodegas;
+export default FoodAccessMap;
